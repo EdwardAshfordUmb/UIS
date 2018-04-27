@@ -1,0 +1,64 @@
+<style>
+body {
+  padding-top: 80px;
+  text-align: center;
+  font-family: monaco, monospace;
+  background: url(https://media.giphy.com/media/1UjkWhdFBDTPi/giphy.gif) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+h1, h2 {
+  display: inline-block;
+  background: #fff;
+}
+norm {
+  text-align: center;
+  font-family: monaco, monospace;
+  color: white;
+}
+h1 {
+  font-size: 30px
+}
+h2 {
+  font-size: 20px;
+}
+span {
+  background: #fd0;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+</style>
+<body>
+<ul>
+  <li><a href="/4534623452132d532home">Home</a></li>
+</ul>
+<h1>Welcome to <span>Umbrella Internal Systems</span></h1><br>
+<br>
+<p>
+<norm>Welcome to Umbrella Internal systems. This site is meant for internal employees ONLY. The information seen here is STRICTLY CONFIDENTIAL. 
+<br>
+<p>
+<br>
