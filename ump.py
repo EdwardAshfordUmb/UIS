@@ -7,8 +7,6 @@ from functools import wraps
 ##### create the application object
 app = Flask(__name__)
 
-##### use decorators to link the function to a url
-
 ###########################################################################
 @app.route('/4534623452132d532home')
 @nocache
