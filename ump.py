@@ -15,7 +15,6 @@ app = Flask(__name__)
 def home():
     return render_template('home.html')  # render a template
 
-#########################################
 ################################################### 
 # route for handling the login page logic
 @app.route('/', methods=['GET', 'POST'])
